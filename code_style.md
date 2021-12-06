@@ -26,6 +26,8 @@ To check a file with `pylint`:
 $ pylint --rcfile=/tmp/pylintrc myfile.py
 ```
 
+# 06.12.2021
+
 ### Supported Python versions
 
 TensorFlow supports Python >= 3.5. See the
@@ -62,7 +64,7 @@ $ diff <my_cc_file> /tmp/my_cc_file.cc
 *   [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.html)
 
 
-
+# 07/12/2021
 
 ## TensorFlow conventions and special uses
 
