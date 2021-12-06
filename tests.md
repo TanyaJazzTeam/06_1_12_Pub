@@ -13,6 +13,8 @@ All code contributors are required to sign a
 
 ## General principles
 
+# kjjhoihpipipi
+
 ### Only depend on what you use in your BUILD rules
 
 TensorFlow is a large library, and depending on the full package when
@@ -103,6 +105,8 @@ obvious, such as running all test initialization code for all shards. This issue
 has been escalated to us by infra teams as a source that creates extra load.
 
 ### Smaller tests are better
+
+# iiuoiuoiioio
 
 The quicker your tests run, the more likely people will be to run your tests.
 One extra second for your test can accumulate to hours of extra time spent
