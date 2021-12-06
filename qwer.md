@@ -24,6 +24,7 @@ of the repo.
 ```
 git clone https://github.com/google/WebFundamentals.git
 ```
+# reeeaaadd 
 
 ## Getting set up
 The new DevSite infrastructure simplifies the dependencies a lot. Ensure that
@@ -65,6 +66,7 @@ access to the original Doc files. This will likely only work for Googlers.
 
 ## Starting the development server
 1. Run `npm start` in the terminal.
+2. kjljlj hjhjhklj
 
 ## Testing your changes before submitting a PR
 Please run your changes through npm test before submitting a PR. The test
